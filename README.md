@@ -21,7 +21,7 @@ Environment: Docker
 Core: NSO, Netsim
 UI: nodeJS, React
 
-## #1st step - SETUP
+## 1st step - SETUP
 
 2 directories - installation (ncs-4.7.1), running directory (ncs-run) 
 source ncsrc
@@ -34,51 +34,54 @@ definitions: package, NED
 
 ✔ Basic setup is done. NSO works, correct NEDs packages are imported so we can talk to these types of devices and Netsim devices are onboarded.
 
-## #2nd step - SERVICE DESIGN
+## 2nd step - SERVICE DESIGN
 
 Table with requirements, parameters.
 
 Commands:
-|               | IOS           | IOS-XR        | Juniper      |
-|:-------------:|:------------- |:--------------|:-------------|
-| CONFIG        | # access-list | # access-list | # access-list|
+
+Device Type | IOS  | IOS-XR | Juniper
+------------ | ------------- | ------------- | -------------
+CONFIG | # access-list | # access-list | # access-list
 
 Parameters:
-|               | IOS           | IOS-XR        | Juniper      |
-|:-------------:|:------------- |:--------------|:-------------|
-| NAME          |       x       |       x       |      x       |
 
-Service skeleton generation with descriptions of the structure and components.
--> XML TEMPLATE (/template)
--> YANG DATA MODEL (/src)
+Device Type | IOS  | IOS-XR | Juniper
+------------ | ------------- | ------------- | -------------
+NAME | x | x | x
+ID | x | x | -
+
+Service skeleton generation with descriptions of the structure and components.  
+-> XML TEMPLATE (/template)  
+-> YANG DATA MODEL (/src)  
 -> ADDITIONAL PYTHON LOGIC (/python)
 
-### #3rd step - XML TEMPLATE
+### A - XML TEMPLATE
 
 Put sample config on NSO and generate XML from it. Parametrize it.
 
-### #4th step - YANG DATA MODEL
+### B - YANG DATA MODEL
 
 Prepare all parameters structure.
 
-### #6th step - ADDITIONAL PYTHON LOGIC
+### C - PYTHON LOGIC (optional)
 
 If we need to calculate something before append to the template or provide some data to configure from 3rd party.
 
-## #5th step - SERVICE DEPLOYMENT
+## 3rd step - SERVICE DEPLOYMENT
 
 Execute on single device -> commit dry-run / commit dry-run outformat native -> commit
 Create group and execute on group.
 
-## #7th step - CUSTOM UI
+## 4th step - CUSTOM UI
 
 Operator don't want to see the CLI. Operator would love to see a beautiful User Interface.
 
-## #SUMMARY
+## SUMMARY
 
 Done! He's happy!
 
 What you've learn:
-✔ 
-✔ 
-✔ 
+✔ A  
+✔ B  
+✔ C  
