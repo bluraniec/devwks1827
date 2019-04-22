@@ -27,6 +27,7 @@ Basics about the architecture:
 
 ## Lab
 
+![Test Topology](/test.png)
 **Environment:** Docker Compose  
 **Core:** NSO, Netsim  
 **User Interface:** nodeJS, React  
