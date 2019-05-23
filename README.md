@@ -1,5 +1,3 @@
-# DEVWKS-1827 - Demystifying NSO
-
 ![Intro](/readme/intro.png)
 
 ## Story
