@@ -12,13 +12,12 @@ Difficulties:
 <p align="center"> IT’S A NIGHTMARE! </p>
 <h4 align="center"> ... </h4>
 <h4 align="center"> :sos: :sos: :sos: </h4>
-<h4 align="center"> ... </h4>
 <h4 align="center"> Is there a solution? </h4>
-<h4 align="center"> NSO! </h4>
+<h4 align="center"> Yes! - NSO </h4>
 <p align="center"> In this lab we're going to help Carl with his task using NSO - Network Services Orchestrator. </p>
 
 ---
-<h4 align="center"> IMPORTANT! <br> <br> This LAB shows only an example of a non-complex Network Automation problem. It's purpose is to show you all mechanisms that you can re-use later on as per your need/scenario! </h4>  
+<h4 align="center"> :exclamation:IMPORTANT:exclamation: <br> <br> This LAB shows only an example of a non-complex Network Automation problem. <br> It's purpose is to show you all mechanisms that you can re-use later on as per your need/scenario! </h4>  
 
 ---
 <h4 align="center">[1/9]</h4>
