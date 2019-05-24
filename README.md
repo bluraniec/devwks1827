@@ -13,7 +13,11 @@ Difficulties:
 IT’S A NIGHTMARE!! But it might happen...
 
 #### Is there a solution? NSO!
- In this lab we're going to help Carl with his task using NSO - Network Services Orchestrator. 
 
+In this lab we're going to help Carl with his task using NSO - Network Services Orchestrator.
+
+<h4 align="center"> IMPORTANT! <br> <br> This LAB shows only an example of a non-complex Network Automation problem. It's purpose is to show you all mechanisms that you can re-use later on as per your need/scenario! </h4>  
+
+---
 <h4 align="center">[1/9]</h4>
 <h4 align="center"> <a href="/readme/1.md"> What is NSO? :arrow_right: </a> </h4>
