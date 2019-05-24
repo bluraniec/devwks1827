@@ -15,4 +15,5 @@ IT’S A NIGHTMARE!! But it might happen...
 #### Is there a solution? NSO!
  In this lab we're going to help Carl with his task using NSO - Network Services Orchestrator. 
 
-<h4 align="center"> [1/9] <a href="/readme/1.md"> What is NSO? :arrow_right: </a> </h4>
+<h4 align="center">[1/9]</h4>
+<h4 align="center"> <a href="/readme/1.md"> What is NSO? :arrow_right: </a> </h4>
