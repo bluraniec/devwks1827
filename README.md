@@ -9,9 +9,11 @@ Difficulties:
 - the ACL is going to be deployed there only for 2 weeks, for the purpose of some changes in the network… and then it has to be again removed from all devices
 - Carl is going at that time for his PTO and there is no one who has enough networking knowledge to remove this configuration from all devices of different vendors
 
-<p align="center"> IT’S A NIGHTMARE!! But it might happen... </p>
+<p align="center"> IT’S A NIGHTMARE! </p>
+<h4 align="center"> ... </h4>
 <h4 align="center"> :sos: :sos: :sos: </h4>
-<h4 align="center"> Is there a solution? </h5>
+<h4 align="center"> ... </h4>
+<h4 align="center"> Is there a solution? </h4>
 <h4 align="center"> NSO! </h4>
 <p align="center"> In this lab we're going to help Carl with his task using NSO - Network Services Orchestrator. </p>
 
