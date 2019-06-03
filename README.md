@@ -10,7 +10,6 @@ Difficulties:
 - :sunny: Carl is going at that time for his PTO and there is no one who has enough networking knowledge to remove this configuration from all devices of different vendors
 
 <p align="center"> IT’S A NIGHTMARE! </p>
-<h4 align="center"> ... </h4>
 <h4 align="center"> :sos: :sos: :sos: </h4>
 <h4 align="center"> Is there a solution? </h4>
 <h4 align="center"> Yes! - NSO </h4>
